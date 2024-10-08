@@ -58,5 +58,7 @@ The application showcases the powerful capabilities of **Next.js** alongside ind
 ![4-cabin page](https://github.com/user-attachments/assets/8178e47e-9fcf-4968-8fcc-13c02ffbc4ba)
 ## RESERVATION PAGE
 ![5-Reservations page](https://github.com/user-attachments/assets/84fce0ba-a0ac-4b2c-b478-021ffd10194f)
+## LOGIN PAGE
+![6-login page](https://github.com/user-attachments/assets/064a0215-719f-4ea4-b931-e77a672adf7b)
 ## UPDATE PROFILE PAGE
-![7-update profile page](https://github.com/user-attachments/assets/ba5bc828-a13d-4cc8-a961-39209349aeb7)
+![7-update profile page](https://github.com/user-attachments/assets/18ef91de-9cb1-42a1-b9c9-b6f5a9ed093c)

@@ -2,7 +2,7 @@
 
 This repository contains the course project **"The Wild Oasis Website"**, a booking service for cabins. It is part of Jonas Schmedtmann's **"Ultimate React Course"** and allows users to make reservations and perform various server operations using **Next.js**.
 
-- **Customer Version**: [the-wild-oasis-zoz](https://the-wild-oasis-website-pi-dun.vercel.app/)
+- **Customer Version**: [the-wild-oasis-zoz](https://the-wild-oasis-website-zeta-rouge.vercel.app/)
 - **Admin Version Repo** : [the-wild-oasis](https://github.com/Ahmedabdelaziz77/the-wild-oasis).
 
 ## Built With

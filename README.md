@@ -47,3 +47,16 @@ The application showcases the powerful capabilities of **Next.js** alongside ind
 - **App Router**: A routing solution that integrates with Next.js, enabling smooth navigation within the application.
 - **Tailwind CSS**: A utility-first CSS framework for rapid and flexible UI development.
 - **Supabase**: A robust platform providing database services, ensuring a reliable backend infrastructure.
+
+## HOME PAGE
+![1-homepage](https://github.com/user-attachments/assets/da5cb1c6-fd7c-4630-b44a-efddbac0c607)
+## CABINS PAGE
+![2-cabins page](https://github.com/user-attachments/assets/8431f4b4-2fca-4b6e-bea4-2756e5d121d1)
+## ABOUT PAGE
+![3-about page](https://github.com/user-attachments/assets/1ede2740-cfd8-4dc8-acd9-d62271458797)
+## CABIN PAGE
+![4-cabin page](https://github.com/user-attachments/assets/8178e47e-9fcf-4968-8fcc-13c02ffbc4ba)
+## RESERVATION PAGE
+![5-Reservations page](https://github.com/user-attachments/assets/84fce0ba-a0ac-4b2c-b478-021ffd10194f)
+## UPDATE PROFILE PAGE
+![7-update profile page](https://github.com/user-attachments/assets/ba5bc828-a13d-4cc8-a961-39209349aeb7)
